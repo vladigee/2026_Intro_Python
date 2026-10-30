@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Basel", "lon": 7.59, "lat": 47.56 }, "geometry": { "type": "Point", "coordinates": [ 7.59, 47.56 ] } },
+{ "type": "Feature", "properties": { "name": "Zurich", "lon": 8.54, "lat": 47.37 }, "geometry": { "type": "Point", "coordinates": [ 8.54, 47.37 ] } },
+{ "type": "Feature", "properties": { "name": "Bern", "lon": 7.44, "lat": 46.95 }, "geometry": { "type": "Point", "coordinates": [ 7.44, 46.95 ] } },
+{ "type": "Feature", "properties": { "name": "Lugano", "lon": 8.95, "lat": 46.0 }, "geometry": { "type": "Point", "coordinates": [ 8.95, 46.0 ] } }
+]
+}
